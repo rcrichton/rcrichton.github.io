@@ -1,0 +1,11 @@
+# Site settings
+title: Ryan's space
+description: > # this means to ignore newlines until "baseurl:"
+  My coding escapades...
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ryancrichton.co.za" # the base hostname & protocol for your site
+twitter_username: rgcrichton
+github_username:  rcrichton
+
+# Build settings
+markdown: kramdown
