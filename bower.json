@@ -1,0 +1,19 @@
+{
+  "name": "rcrichton.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rcrichton/rcrichton.github.io",
+  "authors": [
+    "Ryan Crichton <rg.crichton@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-material": "PolymerElements/paper-material#~1.0.0"
+  }
+}

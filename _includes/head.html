@@ -9,4 +9,11 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+  <!-- 1. Load webcomponents-lite.min.js for polyfill support. -->
+  <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js">
+  </script>
+
+  <!-- 2. Use an HTML Import to bring in some elements. -->
+  <link rel="import" href="/bower_components/paper-material/paper-material.html">
 </head>

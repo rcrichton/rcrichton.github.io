@@ -14,7 +14,7 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: #fdfdfd;
+$background-color: #FAFAFA;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
@@ -50,3 +50,9 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+paper-material {
+    background-color: #FFFFFF;
+    padding: 50px 50px 50px 50px;
+    margin: 25px 0px
+}
