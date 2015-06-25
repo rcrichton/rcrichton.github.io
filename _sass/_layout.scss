@@ -232,3 +232,11 @@
         }
     }
 }
+
+.circle-img {
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    float: left;
+    padding: 0px 15px;
+}
