@@ -3,7 +3,7 @@ layout: post
 title: "Reactive Programming: What finally clicked for me"
 ---
 
-I've been looking into Reactive Programming a bit and what really seems to be missing at the beginning of most tutorials is a clear, precise definition of what Reactive Programming actually a means. After reading a few great tutorials I think this has finally clicked for me.
+I've been looking into Reactive Programming a bit and what really seems to be missing at the beginning of most tutorials is a clear, precise definition of what Reactive Programming actually means. After reading a few great tutorials I think this has finally clicked for me.
 
 Think of the word reactivate. What does it mean? **A reaction is a response to some previous event**. Events occur over time, so they come in streams. **Streams of events can be chained together so that events in one stream create a reaction on another**, and that stream could cause a reaction on another, and another, and so on... Reactive Programming is exactly that. You chain together these streams of events so that when an event occurs (such as a mouse click) it causes **a chain reaction of events which automatically affects other parts of the system** (eg. executing an API call, which causes a response event, which causes the UI to be updated). 
 
