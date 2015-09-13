@@ -9,7 +9,7 @@ Think of the word reactivate. What does it mean? **A reaction is a response to s
 
 To chain together and process events it is often useful to use functional programming constructs. Functions like [`map()`](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/api/core/operators/select.md), [`filter()`](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/api/core/operators/where.md) and [`concatAll()`](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/api/core/operators/concatall.md) exist is reactive libraries to allow you to work more easily with streams of events and to chain them together.
 
-Want to learn more? There are some great tutorials out there that explain these concepts in more detail. One of the best I have seen for Reactive Programming [can be found here](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) and to learn some functional programming constructs that help with reactive programming [this tutorial takes time but is really great](http://jhusain.github.io/learnrx/). I recommend them both. 
+Want to learn more? There are some great tutorials out there that explain these concepts in more detail. One of the best I have seen for Reactive Programming [can be found here](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) and to learn some functional programming constructs that help with reactive programming [this tutorial takes time but is really great](http://reactivex.io/learnrx/). I recommend them both. 
 
 So, what do you think? Has this helped your understanding? Did I get something wrong? Let me know in the comments section below.
 
