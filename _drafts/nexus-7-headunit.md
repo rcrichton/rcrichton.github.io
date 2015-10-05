@@ -62,3 +62,7 @@ The app also had an option to power down the tablet but this required the tablet
 For volume control I use an app called [Virtual Volume Button](https://play.google.com/store/apps/details?id=it.claudio.chimera.virtualvolume&hl=en). It provides floating on screen volume controls and works great. I set it up to have an up and down volume button and to display the overall system volume on each volume adjustment.
 
 Overall, this setup works really well. I use Google Maps for navigation and Google Play Music with offline syncing to play all my music. I also have a [bluetooth ODB2 adapter](http://www.obdlink.com/mxbt/) that can read and display some statistics about the inner-workings of my car. The tablet boot when I turn the car on and I can shut it down with the touch of a button. The on screen volume button allow me to control the volume from any screen. I think its quite an upgrade over stock. Next up, I need to get some decent speakers in there!
+
+Here is a short video of the end product. I hope you enjoy!
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/f_U_1RQrhf4" frameborder="0" allowfullscreen></iframe>
